@@ -19,7 +19,7 @@ Currently, I'm working on exciting projects that involve natural language proces
 
 ### 📈 Profile Visits
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=dikshant-sharma.dikshant-sharma)
+![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=DevilHand420.your_repository_name)
 
 Your visit adds a dash of inspiration to my coding endeavors. Feel free to explore my repositories, contribute, and leave your mark in the world of technology. If you find something interesting, don't forget to star it! ⭐️
 
