@@ -17,9 +17,7 @@ LinkedIn is where I share my thoughts, connect with amazing professionals, and e
 
 Currently, I'm working on exciting projects that involve natural language processing, computer vision, and more. Stay tuned for some mind-bending AI experiments! 🚀
 
-### 📈 Profile Visits
-
-![Profile Visits](https://shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Visits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgithub%2FDevilHand420%2FDevilHand420)
+![Home Page]([https://example.com/images/home.png](https://wallpaperaccess.com/full/314827.jpg))
 
 Your visit adds a dash of inspiration to my coding endeavors. Feel free to explore my repositories, contribute, and leave your mark in the world of technology. If you find something interesting, don't forget to star it! ⭐️
 
