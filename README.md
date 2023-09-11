@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+  <img src="https://wallpaper.dog/large/20512967.jpg" width="500" alt="Image Alt Text">
+</p>
 
 ## Welcome to My GitHub Playground! 🚀
 
