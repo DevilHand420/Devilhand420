@@ -1,8 +1,9 @@
-### Hi there 👋
+
 <p align="center">
   <img src="https://wallpaper.dog/large/20512967.jpg" width="500" alt="Image Alt Text">
 </p>
 
+### Hi there 👋
 ## Welcome to My GitHub Playground! 🚀
 
 Hey there, fellow tech enthusiasts! 👋 I'm **Dikshant**, a relentless explorer of the digital universe, currently pursuing my **MCA** at Chandigarh University. Armed with a thirst for knowledge and a passion for Artificial Intelligence and Machine Learning, I'm on a mission to decode the secrets of the digital realm. 🎓💡
