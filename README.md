@@ -19,7 +19,7 @@ Currently, I'm working on exciting projects that involve natural language proces
 
 ### 📈 Profile Visits
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=DevilHand420.your_repository_name)
+![Profile Visits](https://shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Visits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgithub%2FDevilHand420%2FDevilHand420)
 
 Your visit adds a dash of inspiration to my coding endeavors. Feel free to explore my repositories, contribute, and leave your mark in the world of technology. If you find something interesting, don't forget to star it! ⭐️
 
