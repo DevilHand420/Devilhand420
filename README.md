@@ -16,8 +16,9 @@ LinkedIn is where I share my thoughts, connect with amazing professionals, and e
 ### 🔥 What's Next
 
 Currently, I'm working on exciting projects that involve natural language processing, computer vision, and more. Stay tuned for some mind-bending AI experiments! 🚀
-
-![Image Alt Text](https://wallpaper.dog/large/20512772.jpg)
+<p align="center">
+  <img src="https://wallpaper.dog/large/20512772.jpg" width="300" alt="Image Alt Text">
+</p>
 
 Your visit adds a dash of inspiration to my coding endeavors. Feel free to explore my repositories, contribute, and leave your mark in the world of technology. If you find something interesting, don't forget to star it! ⭐️
 
